@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 8b0ca62c087171945bc517f92e4920d0
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Sounding Script
+  fontNames:
+  - Sounding Script
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: e53b609c09ccaaa49b76dfdb22d22fc3, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
